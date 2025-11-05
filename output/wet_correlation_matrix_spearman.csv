@@ -1,0 +1,6 @@
+parameter,CAT,GPX,MDA,SOD,TAC
+CAT,1.0,,,,
+GPX,,1.0,,,
+MDA,,,1.0,,
+SOD,,,,1.0,
+TAC,,,,,1.0
